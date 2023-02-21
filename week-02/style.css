@@ -16,6 +16,11 @@
   padding: 0;
   box-sizing: border-box;
 }
+main {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
 header h1 {
   width: 100%;
   color: var(--white);
