@@ -3,6 +3,6 @@
 
 Here you can find my homework hosted via Github :
 
-https://yusufyakup.github.io/FooCoding/week-01/
+https://yusufyakup.github.io/FooCoding/HTML-CSS/week-01/
 <br/>
-https://yusufyakup.github.io/FooCoding/week-02/
+https://yusufyakup.github.io/FooCoding/HTML-CSS/week-02/
