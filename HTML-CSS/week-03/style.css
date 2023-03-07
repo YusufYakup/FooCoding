@@ -1,0 +1,41 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+.site-tnwNext {
+  opacity: 1;
+  color: rgba(68, 85, 102, var(--text-opacity));
+  font-family: Graphik, sans-serif;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+@media (min-width: 1440px) {
+  body:after {
+    content: "xl";
+  }
+}
+@media (min-width: 1024px) {
+  body:after {
+    content: "lg";
+  }
+}
+@media (min-width: 768px) {
+  body:after {
+    content: "md";
+  }
+}
+@media (min-width: 375px) {
+  body:after {
+    content: "sm";
+  }
+}
+@media (min-width: 320px) {
+  body:after {
+    content: "xs";
+  }
+}
+body:after {
+  display: none;
+}
